@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC AZUL",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook MAC PRO",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Notebook DELL",
+      "price": 1000.89
+    },
+    {
+      "id": 4,
+      "name": "Notebook POSITIVO",
+      "price": 2.5
+    },
+    {
+      "name": "TESTE",
+      "price": "190",
+      "id": 5
+    }
+  ]
+}
